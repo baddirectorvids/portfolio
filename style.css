@@ -1,42 +1,42 @@
 @font-face {
     font-family: 'Gatchina';
     font-weight: 400;
-    src: url(fonts-new/Gatchina_Regular.woff2)
+    src: url(fonts-new/gatchina_regular.woff2)
 }
 @font-face {
     font-family: 'Gatchina';
     font-weight: 500;
-    src: url(fonts-new/Gatchina_Regular_Italic.woff2)
+    src: url(fonts-new/gatchina_regular_italic.woff2)
 }
 @font-face {
     font-family: 'Gatchina';
     font-weight: 600;
     font-style: bold;
-    src: url(fonts-new/Gatchina_Bold.woff2)
+    src: url(fonts-new/gatchina_bold.woff2)
 }
 @font-face {
     font-family: 'Gatchina';
     font-weight: 700;
     font-style: bold italic;
-    src: url(fonts-new/Gatchina_Bold_Italic.woff2)
+    src: url(fonts-new/gatchina_bold_italic.woff2)
 }
 
 @font-face {
     font-family: 'Proxima';
     font-weight: 300;
-    src: url(fonts-new/ProximaNova-Light.woff2)
+    src: url(fonts-new/proximanova-light.woff2)
 }
 @font-face {
     font-family: 'Proxima';
     font-weight: 400;
     font-style: italic;
-    src: url(fonts-new/ProximaNova-RegularIt.woff2)
+    src: url(fonts-new/proximanova-regularit.woff2)
 }
 @font-face {
     font-family: 'Proxima';
     font-weight: 600;
     font-style: bold;
-    src: url(fonts-new/ProximaNova-Bold.woff2)
+    src: url(fonts-new/proximanova-bold.woff2)
 }
 
 * {
