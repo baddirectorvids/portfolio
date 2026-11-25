@@ -985,7 +985,7 @@ html:has(dialog[open]) {
 
     .vid-and-desc, .screenshots {
         scale: 103%;
-        max-height: 97%;
+        max-height: 92%;
     }
 
     #ads h4,
